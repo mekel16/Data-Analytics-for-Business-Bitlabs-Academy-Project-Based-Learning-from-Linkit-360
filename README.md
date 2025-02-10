@@ -19,4 +19,6 @@ This project involves performing **Exploratory Data Analysis (EDA)**, generating
 
 With reference to the **subscription date** and **unsubscription date**, and considering the number of **re-subscribed users**, the final number of permanently unsubscribed users is **59,077**, meaning approximately **10.46% of customers have churned** during the given period.
 
+the total revenue loss from churn is **Rp125,422,000** dari t
+
 
