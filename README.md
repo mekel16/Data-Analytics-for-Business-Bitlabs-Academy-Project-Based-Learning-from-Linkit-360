@@ -23,3 +23,6 @@ the total reveneu of customers who churn is equal to **Rp125,422,000** from the 
 Here are the top 10 customer revenue churns
 ![image](https://github.com/user-attachments/assets/aa016217-b408-4d4e-8017-1daf3697a9ba)
 
+The majority of services chosen by customers are **GALAYS SAM** with 99.77% of all existing services.
+The churn from the service chosen by the majority of customers is 10.37%
+
